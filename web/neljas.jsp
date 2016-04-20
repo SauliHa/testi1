@@ -1,6 +1,6 @@
 <%-- 
-    Document   : kolmas
-    Created on : Apr 20, 2016, 1:47:22 PM
+    Document   : neljas
+    Created on : Apr 20, 2016, 1:59:59 PM
     Author     : osaha045
 --%>
 
@@ -13,6 +13,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <p>ayy lmao</p>
     </body>
 </html>
